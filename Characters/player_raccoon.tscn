@@ -62,19 +62,17 @@ animations = [{
 
 [sub_resource type="CircleShape2D" id="CircleShape2D_b33wy"]
 custom_solver_bias = 0.309
-radius = 89.99
+radius = 160.012
 
 [node name="PlayerRaccoon" type="CharacterBody2D"]
 position = Vector2(0, -7)
-scale = Vector2(0.5, 0.5)
 script = ExtResource("1_iq5xl")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
-scale = Vector2(0.5, 0.5)
 sprite_frames = SubResource("SpriteFrames_lwj4b")
 animation = &"action"
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2(2, -44)
+position = Vector2(4, -94)
 scale = Vector2(0.5, 0.5)
 shape = SubResource("CircleShape2D_b33wy")

@@ -1,9 +1,8 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1710947566
+::res://::1710957582
 export_presets.cfg::TextFile::-1::1710688397::0::1::::<><>::
 icon.svg::CompressedTexture2D::1219636454829313979::1708634753::1708634766::1::::<><>::
-Tilemap64x64grid.png::CompressedTexture2D::1943962770862243192::1710940933::1710940897::1::::<><>::
-::res://Assets/::1710940953
+::res://Assets/::1710957582
 1. level.png::CompressedTexture2D::8913313344255380603::1710678876::1710678913::1::::<><>::
 Arvutilaud.png::CompressedTexture2D::1564322306302353573::1710678876::1710678913::1::::<><>::
 Group 1.png::CompressedTexture2D::6061650421313811989::1710678876::1710678913::1::::<><>::
@@ -35,7 +34,7 @@ Rectangle 52.png::CompressedTexture2D::1182872512377113719::1710678876::17106789
 Rectangle 53.png::CompressedTexture2D::5692180178056794279::1710678876::1710678926::1::::<><>::
 Rectangle 54.png::CompressedTexture2D::8324447548084054555::1710678876::1710678926::1::::<><>::
 Rectangle 55.png::CompressedTexture2D::570232526874813619::1710678876::1710678926::1::::<><>::
-Tilemap64x64grid.png::CompressedTexture2D::4520432873295048596::1710940952::1710940953::1::::<><>::
+Tilemap256x256grid.png::CompressedTexture2D::6760237187947501530::1710957567::1710957587::1::::<><>::
 Tuba.png::CompressedTexture2D::7927690555990069676::1710678876::1710678927::1::::<><>::
 Voodi.png::CompressedTexture2D::4415270215688101584::1710678876::1710678926::1::::<><>::
 Õun.png::CompressedTexture2D::2536728870617010520::1710678876::1710678926::1::::<><>::
@@ -43,7 +42,7 @@ Voodi.png::CompressedTexture2D::4415270215688101584::1710678876::1710678926::1::
 Öökapp esemega 2.png::CompressedTexture2D::5193293252014853195::1710678876::1710678926::1::::<><>::
 ::res://Assets/GUI/::1710678913
 Inventory.png::CompressedTexture2D::4032881169365192543::1710678876::1710678913::1::::<><>::
-::res://Characters/::1710947195
+::res://Characters/::1710957106
 Pesukaru IDLE1.png::CompressedTexture2D::3194419327269743235::1710678876::1710678876::1::::<><>::
 Pesukaru IDLE2.png::CompressedTexture2D::5480861062328567244::1710678876::1710678876::1::::<><>::
 Pesukaru IDLE3.png::CompressedTexture2D::2553813353257914121::1710678876::1710678876::1::::<><>::
@@ -55,13 +54,13 @@ Pesukaru TOP parem samm.png::CompressedTexture2D::4759881007098372063::170947646
 Pesukaru TOP parem sammPesukaru-astub.png::CompressedTexture2D::4640568743034777081::1710678876::1710678876::1::::<><>::
 Pesukaru TOP vasak sammPesukaru-astub.png::CompressedTexture2D::3492799394945672656::1710678876::1710678876::1::::<><>::
 Pesukaru TOPPesukaru-astub.png::CompressedTexture2D::3701387620602276914::1710678876::1710678876::1::::<><>::
-player_raccoon.gd::GDScript::-1::1710947195::0::1::::<>CharacterBody2D<>::
+player_raccoon.gd::GDScript::-1::1710957106::0::1::::<>CharacterBody2D<>::
 player_raccoon.tscn::PackedScene::3923770018888983037::1710942900::0::1::::<><>::res://Characters/player_raccoon.gd<>uid://y3pijpgnqq1g::::res://Characters/Pesukaru KORJAB1.png<>uid://57vw11o0hmyn::::res://Characters/Pesukaru KORJAB2.png<>uid://blrnvcjewfv4n::::res://Characters/Pesukaru IDLE1.png<>uid://ckc78l7type8c::::res://Characters/Pesukaru IDLE2.png<>uid://bcnc6ylhnsf1b::::res://Characters/Pesukaru IDLE3.png<>uid://hhe6ab48gn55::::res://Characters/Pesukaru IDLE4.png<>uid://b8jefoerrg6uy::::res://Characters/Pesukaru TOP2Pesukaru-astub.png<>uid://b7d6qvrurtr3v::::res://Characters/Pesukaru TOP parem sammPesukaru-astub.png<>uid://bp065pp10qgqi::::res://Characters/Pesukaru TOP vasak sammPesukaru-astub.png<>uid://bsy8kwhgudvpi::::res://Characters/Pesukaru TOPPesukaru-astub.png
-::res://Levels/::1710947195
+::res://Levels/::1710957332
 apple.gd::GDScript::-1::1710686402::0::1::::<>CharacterBody2D<>::
 apple.tscn::PackedScene::9216397762584180329::1710942900::0::1::::<><>::res://Levels/apple.gd<>uid://bce2s3jvtbe21::::res://Assets/Õun.png
-camera.tscn::PackedScene::8478595504881571041::1710683375::0::1::::<><>::
-game_level.tscn::PackedScene::1033539600192014793::1710947195::0::1::::<><>::uid://ci6xjhmq4hoxq::::res://Assets/Põrand 1.png<>uid://bv5x6ikcd0rwv::::res://Characters/player_raccoon.tscn<>uid://b5ny4ssm2mbwu::::res://Assets/Tilemap64x64grid.png<>uid://ds2dh18soge7b::::res://Levels/camera.tscn<>uid://d4kqyvwmbta3j::::res://Levels/apple.tscn
+camera.tscn::PackedScene::8478595504881571041::1710957332::0::1::::<><>::
+game_level.tscn::PackedScene::1033539600192014793::1710957332::0::1::::<><>::uid://ci6xjhmq4hoxq::::res://Assets/Põrand 1.png<>uid://bv5x6ikcd0rwv::::res://Characters/player_raccoon.tscn<>uid://b5ny4ssm2mbwu::::res://Assets/Tilemap64x64grid.png<>uid://ds2dh18soge7b::::res://Levels/camera.tscn<>uid://d4kqyvwmbta3j::::res://Levels/apple.tscn
 ::res://webApp/::1710688457
 index.apple-touch-icon.png::CompressedTexture2D::8487005111730415925::1710688069::1710687561::1::::<><>::
 index.icon.png::CompressedTexture2D::5616676703080746753::1710688069::1710687561::1::::<><>::
