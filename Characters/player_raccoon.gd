@@ -14,7 +14,7 @@ func _physics_process(_delta):
 		input_direction = input_direction.normalized()
 		self.velocity = input_direction * move_speed
 		$AnimatedSprite2D.play("move")
-		var target_direction = Vector2(-input_direction.y, input_direction.x) # Pöörake vektor -90 kraadi 
+		var target_direction = Vector2(-input_direction.y, input_direction.x) #Pööra -90 kraadi
 		look_at(global_position + target_direction)
 	else:
 		self.velocity = Vector2.ZERO
